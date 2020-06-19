@@ -1,0 +1,16 @@
+PODS:
+  - personCenterModule (0.1.0)
+
+DEPENDENCIES:
+  - personCenterModule (from `../`)
+
+EXTERNAL SOURCES:
+  personCenterModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  personCenterModule: 9becfd4b1d318e68702db9a9443add415dce343a
+
+PODFILE CHECKSUM: debef2596ae3b82236e105a363acc82defb69a3f
+
+COCOAPODS: 1.9.3

@@ -1,0 +1,22 @@
+{
+  "name": "personCenterModule",
+  "version": "0.1.0",
+  "summary": "A short description of personCenterModule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/weixiaobeihou/personCenterModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "weixiaobeihou": "wanghongwei09572@hello.com"
+  },
+  "source": {
+    "git": "https://github.com/weixiaobeihou/personCenterModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "personCenterModule/Classes/**/*"
+}

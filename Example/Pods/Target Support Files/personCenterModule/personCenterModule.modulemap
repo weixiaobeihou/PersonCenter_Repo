@@ -1,0 +1,6 @@
+framework module personCenterModule {
+  umbrella header "personCenterModule-umbrella.h"
+
+  export *
+  module * { export * }
+}
