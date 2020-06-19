@@ -1,4 +1,4 @@
-# personCenterModule(组件)
+# personCenterModule
 
 [![CI Status](https://img.shields.io/travis/weixiaobeihou/personCenterModule.svg?style=flat)](https://travis-ci.org/weixiaobeihou/personCenterModule)
 [![Version](https://img.shields.io/cocoapods/v/personCenterModule.svg?style=flat)](https://cocoapods.org/pods/personCenterModule)
