@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2604ABBDCD8D21AE0AE8DD72 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		2604ABBDCD8D21AE0AE8DD72 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		6003F591195388D20070C39A /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
@@ -27,10 +27,10 @@
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		68F1F954B572D7AB118EDCC9 /* Pods-personCenterModule_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-personCenterModule_Tests.debug.xcconfig"; path = "Target Support Files/Pods-personCenterModule_Tests/Pods-personCenterModule_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		9EEA0543A97DF01BCA0FA031 /* personCenterModule.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = personCenterModule.podspec; path = ../personCenterModule.podspec; sourceTree = "<group>"; };
+		9EEA0543A97DF01BCA0FA031 /* personCenterModule.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = personCenterModule.podspec; path = ../personCenterModule.podspec; sourceTree = "<group>"; };
 		9FE57A671E41C203C7FC0075 /* Pods-personCenterModule_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-personCenterModule_Tests.release.xcconfig"; path = "Target Support Files/Pods-personCenterModule_Tests/Pods-personCenterModule_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		BBAC893DCC8E5E506508C061 /* Pods_personCenterModule_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_personCenterModule_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		FD5F204523D0D275B8CC40BF /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		FD5F204523D0D275B8CC40BF /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,7 +54,6 @@
 				68F1F954B572D7AB118EDCC9 /* Pods-personCenterModule_Tests.debug.xcconfig */,
 				9FE57A671E41C203C7FC0075 /* Pods-personCenterModule_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -160,6 +159,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
