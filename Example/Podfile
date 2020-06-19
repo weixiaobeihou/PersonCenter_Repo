@@ -1,0 +1,6 @@
+use_frameworks!
+target 'personCenterModule_Tests' do
+  pod 'personCenterModule', :path => '../'
+  
+  
+end
